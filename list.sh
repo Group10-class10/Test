@@ -5,4 +5,7 @@ read -s password
 echo "Welcome to GT Bank"
 
 
-Tunde 
+Tunde
+
+Fantastic user defined variable script
+This is perfect for e-banking 
